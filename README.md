@@ -52,5 +52,4 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 </p>
 </details> 
 
-![Copy gif](https://media.giphy.com/media/SA5uw3Td33qF4FGIlY/giphy.gif)
-## 👉🏽 Click the copy icon in the upper right hand corner below to copy the template:
+![Copy gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHphczRnc204cGh1YmxodjBjc2kxZXVnbDB2bm04c3lnbmNtYWZ3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUKrrEnN9I5lnrcSMv/giphy-downsized-large.gif)
