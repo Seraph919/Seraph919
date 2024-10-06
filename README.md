@@ -1,4 +1,4 @@
-# GitHub Profile README Template 🎉
+# logname : SERAPH
 
 ## How to use:
 
@@ -7,7 +7,7 @@ Copy the markdown below and update the placeholders with your personal informati
 <details><summary>Toggle to see the what the completed profile looks like</summary>
 <p>
 
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Seraph! 👋
 
 ![Banner Image](https://www.cometlog.com/?i=monkey-math-gif-monkey-math-accounting-discover-share-gifs-oo-3A9KOzSy)
 
