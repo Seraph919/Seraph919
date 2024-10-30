@@ -1,5 +1,5 @@
 # logname :
-  [![hfegrach's 42 stats](https://badge.mediaplus.ma/greenbinary/hfegrach)](https://github.com/oakoudad/badge42)
+  [![asoudani's 42 stats](https://badge.mediaplus.ma/greenbinary/asoudani)](https://github.com/oakoudad/badge42)
 
 let's just stick with Seraph for now..
 # Have a good day!
