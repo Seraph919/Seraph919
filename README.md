@@ -6,7 +6,6 @@ I am a student at the 42 Network School, where I am diving deep into the world o
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm92MDV0Y2VqZjVicWhrZW1jdTV2MnJweDc0bDI0YWJhY3YxZTcwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BkMa7z59uxc9G/giphy.gif" alt="Centered GIF"/>
 </p>
 
-
 # logname :
 [![asoudani's 42 stats](https://badge.mediaplus.ma/darkblue/asoudani)](https://github.com/oakoudad/badge42)
 
