@@ -7,8 +7,9 @@ I am a student at the 42 Network School, where I am diving deep into the world o
 </p>
 
 # logname :
-[![asoudani's 42 stats](https://badge.mediaplus.ma/darkblue/asoudani)](https://github.com/oakoudad/badge42)
-
+<p align="center">
+  <img src="https://badge.mediaplus.ma/darkblue/asoudani)](https://github.com/oakoudad/badge42" alt="Centered GIF"/>
+</p>
 **My Interests**:
 - Systems Programming
 - Automation Bash/Shell
