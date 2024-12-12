@@ -7,13 +7,15 @@ I am a student at the 42 Network School, where I am diving deep into the world o
 
 **My Interests**:
 - Systems Programming
-- Automation with Bash/Shell
+- Automation Bash/Shell
 - Open-source Contributions
+- Cybersecurity
+- Art
+- Robotics
 
 **I am open to**:
-
 - collaboration on projects involving C programming or scripting,
-- any opportunities to enhance my coding and systems knowledge, and
+- any opportunities to enhance my coding and systems knowledge,
 - mentoring or guidance on advancing my technical skills.
 
 ## Skills:
