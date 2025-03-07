@@ -36,6 +36,12 @@ I am a student at the 42 Network School, where I am diving deep into the world o
 ![Shell](https://img.shields.io/badge/Shell-%23000000.svg?style=for-the-badge&logo=terminal&logoColor=white)&nbsp;
 ![Makefile](https://img.shields.io/badge/Makefile-%23000000.svg?style=for-the-badge&logo=makefile&logoColor=white)
 
+###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ahdad0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ahdad0&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahdad0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 #### Tools and Technologies:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
