@@ -10,7 +10,7 @@ I am a student at the 42 Network School, where I am diving deep into the world o
 
 <p align="center">
   <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/darkblue/asoudani" alt="asoudani's 42 stats"/>
+    <img src="https://badge.mediaplus.ma/black/asoudani" alt="asoudani's 42 stats"/>
   </a>
 </p>
 
