@@ -3,7 +3,7 @@
 I am a student at the 42 Network School, where I am diving deep into the world of programming and problem-solving. My focus lies in mastering C, C++, and Shell scripting, along with exploring new areas of technology
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm92MDV0Y2VqZjVicWhrZW1jdTV2MnJweDc0bDI0YWJhY3YxZTcwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BkMa7z59uxc9G/giphy.gif" alt="Centered GIF"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxhNGlibmVnYnpheHJ1ZmlqemVjbTRodXJ0M215djJuMnRpb202YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pd4oth9yLnCFzHk2bi/giphy.gif" alt="Centered GIF"/>
 </p>
 
 # logname :
