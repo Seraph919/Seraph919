@@ -27,6 +27,8 @@ I am a student at the 42 Network School, where I am diving deep into the world o
 - any opportunities to enhance my coding and systems knowledge,
 - mentoring or guidance on advancing my technical skills.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Seraph919&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
 ## Skills:
 
 #### Languages:
