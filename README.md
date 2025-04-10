@@ -28,7 +28,7 @@ I am a student at the 42 Network School, where I am diving deep into the world o
 - mentoring or guidance on advancing my technical skills.
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Seraph919&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true" alt="Seraph919's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seraph919&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact" alt="Seraph919's GitHub Stats" />
 </p>
 
 ## Skills:
