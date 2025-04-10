@@ -27,10 +27,6 @@ I am a student at the 42 Network School, where I am diving deep into the world o
 - any opportunities to enhance my coding and systems knowledge,
 - mentoring or guidance on advancing my technical skills.
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seraph919&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact" alt="Seraph919's GitHub Stats" />
-</p>
-
 ## Skills:
 
 #### Languages:
@@ -39,6 +35,10 @@ I am a student at the 42 Network School, where I am diving deep into the world o
 ![Bash](https://img.shields.io/badge/Bash-%2312100E.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![Shell](https://img.shields.io/badge/Shell-%23000000.svg?style=for-the-badge&logo=terminal&logoColor=white)&nbsp;
 ![Makefile](https://img.shields.io/badge/Makefile-%23000000.svg?style=for-the-badge&logo=makefile&logoColor=white)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seraph919&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact" alt="Seraph919's GitHub Stats" />
+</p>
 
 #### Tools and Technologies:
 
