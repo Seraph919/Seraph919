@@ -44,7 +44,6 @@ I am a student at the 42 Network School, where I am diving deep into the world o
 </p>
 
 ---
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seraph919&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact" alt="Seraph919's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seraph919&theme=outrun&show_icons=true&hide_border=false&layout=compact" alt="Seraph919's GitHub Stats" />
 </p>
