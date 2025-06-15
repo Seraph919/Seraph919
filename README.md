@@ -22,28 +22,14 @@ I am a student at the 42 Network School, where I am diving deep into the world o
 
 ## 🧠 Skills & Tools
 
-### 🖥️ **Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Shell">
-</p>
+### 🖥️ **Stuff I know**
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,discord,git,github,ae,au,arch)](https://skillicons.dev)
 
 ---
-
-### 🛠️ **Technologies & Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Vim-11AB00?style=for-the-badge&logo=vim&logoColor=white" alt="Vim">
-  <img src="https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="Tmux">
-</p>
+### 🖥️ **Currently learning**
+[![My Skills](https://skillicons.dev/icons?i=py,js,nodejs,bots)](https://skillicons.dev)
 
 ---
-<p align="center">
+<p align="middle">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seraph919&theme=outrun&show_icons=true&hide_border=false&layout=compact" alt="Seraph919's GitHub Stats" />
 </p>
