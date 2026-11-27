@@ -184,10 +184,10 @@ Portable application and storage management tool for 1337/42 students working wi
 </td>
 <td valign="top">
 
-### [Tailwind Docker Starter](https://github.com/Seraph919/Tailwind-CSS-Docker-Starter)
-Containerized starter environment for Tailwind CSS development.
+### [QuickSketch GnomeShell Extention](https://github.com/Seraph919/QuickSketch-GnomeShell-Extention)
+A lightweight GNOME Shell extension that lets you draw and annotate directly on your screen without switching applications.
 
-`Docker` `Tailwind CSS`
+`GJS` `GNOME Shell API` `Bash` `JS`
 
 </td>
 </tr>
